@@ -1,0 +1,33 @@
+  .welcome {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-size: x-large;
+    color: white;
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+  #amazing {
+      font-size: small;
+      font-family: sans-serif;
+      font-weight: bold;
+  }
+  .logo {
+      color: white;
+      position: absolute;
+  }
+  #about {
+      font-size: x-large;
+      font-family: 'Times New Roman', Times, serif;
+      text-align: center;
+  }
+  .about {
+    font-size: larger;
+    font-family: sans-serif;
+    text-align: center;
+  }
