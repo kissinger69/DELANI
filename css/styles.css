@@ -54,3 +54,14 @@
     color: white;
     text-align: center;
   }
+  .display0 {
+    display: none;
+  }
+  .display1 {
+    display: none;
+    align-content: center;
+  }
+  .display2 {
+    display: none;
+    text-align: end;
+  }
