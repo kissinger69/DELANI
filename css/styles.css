@@ -19,7 +19,7 @@
   }
   .logo {
       color: white;
-      position: absolute;
+      top: 10;
   }
   #about {
       font-size: x-large;
