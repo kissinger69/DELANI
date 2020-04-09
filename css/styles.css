@@ -81,3 +81,15 @@
     height: 50mm;
     width: 50mm;
   }
+  #what {
+    text-align: center;
+  }
+  #contact {
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-size: x-large;
+    color: white;
+  }
