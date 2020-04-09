@@ -129,5 +129,9 @@
     .socials {
       padding-top: 3%;
       text-align: center;
-      padding-bottom: 3%;
+    }
+    .footer {
+      font-weight: bold;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      text-align: center;
     }
