@@ -93,3 +93,41 @@
     font-size: x-large;
     color: white;
   }
+  #fullname {
+    position: absolute;
+    top: 23%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-size: x-large;
+  }
+  #email {
+    position: absolute;
+    top: 23%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-size: x-large;
+    background-color: none;
+  }
+  #message {
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-size: x-large;
+  }
+    #SUBMIT {
+      position: absolute;
+      top: 90%;
+      left: 45%;
+      transform: translate(-50%, -50%);
+      font-family: sans-serif;
+      font-size: x-large;
+    }
+    .socials {
+      padding-top: 3%;
+      text-align: center;
+      padding-bottom: 3%;
+    }
