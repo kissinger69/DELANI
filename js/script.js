@@ -12,6 +12,10 @@ $(".click2").click(function()  {
     $(".product2").slideToggle("slow");
      $(".display2").slideToggle("slow");
 });
+$(".path").hide();
+$(".squares").hover(function() {
+  $(this).find(".path").toggle("slow");
+ });
 
 
 
