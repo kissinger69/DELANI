@@ -17,5 +17,6 @@ $(".squares").hover(function() {
   $(this).find(".path").toggle("slow");
  });
 
+ 
 
 
