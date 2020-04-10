@@ -9,7 +9,7 @@ It is a website that helps software engineers of Delani Studio build projects re
 * Access the website through this live link:https://kissinger69.github.io/DELANI/. 
 * View the website in your computer.
 ## Known Bugs
-As per now there are no bugs.
+As per now there are no bugs. 
 ## Technologies Used
 For the development of this website i used HTML,CSS and Javascript which came along with JQuery.
 ## Support and contact details
