@@ -6,7 +6,7 @@
 It is a website that helps software engineers of Delani Studio build projects revolving around technology and websites too for those who need a helping hand.At the end of the website,you can give out your feedback about Delani Studio. 
 ## Setup/Installation Requirements
 * Good internet is key to access the website.
-* Access the website through this live link:https://kissinger69.github.io/DELANI-STUDIO/. 
+* Access the website through this live link:https://kissinger69.github.io/DELANI/. 
 * View the website in your computer.
 ## Known Bugs
 As per now there are no bugs.
