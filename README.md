@@ -14,7 +14,5 @@ As per now there are no bugs.
 For the development of this website i used HTML,CSS and Javascript which came along with JQuery.
 ## Support and contact details
 For any questions,issues,feedback,comments;feel free to contact me kissyoa69@gmail.com.
-### [License]
-(https://github.com/kissinger69/DELANI-STUDIO/blob/master/LICENSE)
-
+### [License](https://github.com/kissinger69/DELANI-STUDIO/blob/master/LICENSE)
 Copyright (c) 2020 **Helen Yoa Kissinger**
