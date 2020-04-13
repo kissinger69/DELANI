@@ -150,7 +150,7 @@
     }
     .path {
       position: absolute;
-      top: 40%;
+      top: 30%;
       left: 10%;
       transform: translate(-50%, -50%);
       font-family: sans-serif;
@@ -159,10 +159,11 @@
       color:black;
       text-align: center;
       background-color: white;
+      border: 5px solid white;
     }
     .path1 {
       position: absolute;
-      top: 40%;
+      top: 30%;
       left: 35%;
       transform: translate(-50%, -50%);
       font-family: sans-serif;
@@ -171,11 +172,12 @@
       color:black;
       text-align: center;
       background-color: white;
+      border: 5px solid white;
       
     }
     .path2 {
       position: absolute;
-      top: 40%;
+      top: 30%;
       left: 60%;
       transform: translate(-50%, -50%);
       font-family: sans-serif;
@@ -184,10 +186,13 @@
       color:black;
       text-align: center;
       background-color: white;
+      border: 5px solid white;
+      
+
     }
     .path3 {
       position: absolute;
-      top: 40%;
+      top: 30%;
       left: 85%;
       transform: translate(-50%, -50%);
       font-family: sans-serif;
@@ -196,10 +201,11 @@
       color:black;
       text-align: center;
       background-color: white;
+      border: 5px solid white;
     }
     .path4 {
       position: absolute;
-      top: 40%;
+      top: 30%;
       left: 10%;
       transform: translate(-50%, -50%);
       font-family: sans-serif;
@@ -209,10 +215,11 @@
       text-align: center;
       background-color: white;
       animation-timing-function: 4s;
+      border: 5px solid white;
     }
     .path5{
       position: absolute;
-      top: 40%;
+      top: 30%;
       left: 35%;
       transform: translate(-50%, -50%);
       font-family: sans-serif;
@@ -222,10 +229,11 @@
       text-align: center;
       background-color: white;
       animation-timing-function: 4s;
+      border: 5px solid white;
     }
     .path6 {
       position: absolute;
-      top: 40%;
+      top: 30%;
       left: 60%;
       transform: translate(-50%, -50%);
       font-family: sans-serif;
@@ -235,10 +243,11 @@
       text-align: center;
       background-color: white;
       animation-timing-function: 4s;
+      border: 5px solid white;
     }
     .path7 {
       position: absolute;
-      top: 40%;
+      top: 30%;
       left: 85%;
       transform: translate(-50%, -50%);
       font-family: sans-serif;
@@ -248,6 +257,16 @@
       text-align: center;
       background-color: white;
       animation-timing-function: 4s;
+      border: 5px solid white;
+    }
+    #fullname {
+      background-color: transparent;
+    }
+    #email {
+      background-color: transparent;
+    }
+    #message {
+      background-color: transparent;
     }
 
   
